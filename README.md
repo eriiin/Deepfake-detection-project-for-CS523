@@ -10,4 +10,4 @@ Download dataset from: https://www.kaggle.com/xhlulu/140k-real-and-fake-faces
 
 2.uncomment the save module cell and run the notebooks to train and save modules
 
-3.run predict to predict if the image is handled by 
+3.run predict with different modules to predict if the image is handled by 

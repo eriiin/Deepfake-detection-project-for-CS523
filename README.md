@@ -8,7 +8,8 @@ Download dataset from: https://www.kaggle.com/xhlulu/140k-real-and-fake-faces
 
 1. Save the dataset under the same directory as the jupyter notebook files. Under this dataset there should
    be 3 different dir named `train/`, `valid/`, and `test/`. If you don't want to make changes to the path 
-   in the jupyter notebook file, you can name the dataset `140k/`
+   in the jupyter notebook file, you can name the dataset `140K-data/` and make sure the path to `train/`, 
+   `valid/`, and `test/` is called 
 
 2. uncomment the save module cell and run the notebooks to train and save modules
 

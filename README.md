@@ -11,7 +11,8 @@ Download dataset from: https://www.kaggle.com/xhlulu/140k-real-and-fake-faces
    in the jupyter notebook file, you can name the dataset `140K-data/` and make sure the path to `train/`, 
    `valid/`, and `test/` is called `./140K-data/real_vs_fake/real-vs-fake/`.
 
-2. You can uncomment the Save Module cell and run the notebooks to train and save modules
+2. You can uncomment the Save Module cell and run the notebooks to train and save modules. Modules are saved
+   under `.h5` extension.
 
 3. You can run cells below train with different modules to predict the model and get accuracy, results, and 
    plots.

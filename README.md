@@ -17,4 +17,4 @@ Download dataset from: https://www.kaggle.com/xhlulu/140k-real-and-fake-faces
 3. You can run cells below train with different modules to predict the model and get accuracy, results, and 
    plots.
 
->Pretrained models are uploaded. They are under the `pretrained_models/` and you can use them directly.
+>Pretrained model for Custom CNN is uploaded. Pretrained models for VGG16 and DenseNet are unable to be uploaded because they are too big. 

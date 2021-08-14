@@ -17,4 +17,3 @@ Download dataset from: https://www.kaggle.com/xhlulu/140k-real-and-fake-faces
 3. You can run cells below train with different modules to predict the model and get accuracy, results, and 
    plots.
 
-*The trained modules can be used to predict if an image is handles by GANs(fake in an other word)!*

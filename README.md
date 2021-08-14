@@ -9,10 +9,11 @@ Download dataset from: https://www.kaggle.com/xhlulu/140k-real-and-fake-faces
 1. Save the dataset under the same directory as the jupyter notebook files. Under this dataset there should
    be 3 different dir named `train/`, `valid/`, and `test/`. If you don't want to make changes to the path 
    in the jupyter notebook file, you can name the dataset `140K-data/` and make sure the path to `train/`, 
-   `valid/`, and `test/` is called 
+   `valid/`, and `test/` is called `./140K-data/real_vs_fake/real-vs-fake/`.
 
-2. uncomment the save module cell and run the notebooks to train and save modules
+2. You can uncomment the Save Module cell and run the notebooks to train and save modules
 
-3. run cells below train with different modules to predict the model and get accuracy and results
+3. You can run cells below train with different modules to predict the model and get accuracy, results, and 
+   plots.
 
 *The trained modules can be used to predict if an image is handles by GANs(fake in an other word)!*
